@@ -1,0 +1,28 @@
+.header {
+    text-align: left;
+    margin-left: 30%;
+}
+
+h1,
+h2 {
+    margin-top: 25px;
+}
+
+.fa-eye {
+    font-size: 40px;
+    display: inline-block;
+    margin-left: 2px;
+}
+
+hr {
+    margin: 20px 0px;
+}
+
+.ISBN-number,
+hr {
+    width: 400px;
+}
+
+.button {
+    margin: 10px auto;
+}
